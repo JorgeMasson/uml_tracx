@@ -1639,7 +1639,7 @@
 <XPD:REF name="Owner">A0+3V5vNDES0hNva7s+aSwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="LPrAmBUZeEOEmQK4x+5xTQAA">
-<XPD:ATTR name="Name" type="string">birthdate</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">birthday</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">string</XPD:ATTR>
 <XPD:REF name="Owner">A0+3V5vNDES0hNva7s+aSwAA</XPD:REF>
 </XPD:OBJ>
