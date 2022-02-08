@@ -2175,7 +2175,7 @@
 <XPD:REF name="Associations[0]">/UXqSxc0JkqUEMrU7OG0kAAA</XPD:REF>
 <XPD:REF name="Associations[1]">tcG4/pe7FEKfNpN1W7MhlQAA</XPD:REF>
 <XPD:REF name="Associations[2]">O5dTLsEy+0ezLKPhfwPJeQAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">10</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">9</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="x85/FkRZ4EOG5XdSKGVZ+wAA">
 <XPD:ATTR name="Name" type="string">id</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">number</XPD:ATTR>
@@ -2219,11 +2219,6 @@
 <XPD:OBJ name="Attributes[8]" type="UMLAttribute" guid="uI5NWphgykGsTmn2/8TDqgAA">
 <XPD:ATTR name="Name" type="string">categories</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Category[]</XPD:ATTR>
-<XPD:REF name="Owner">JvGdDamCBkGkbHQpeUl18gAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[9]" type="UMLAttribute" guid="FPkR9kqjxUa1BCeEpYSGMgAA">
-<XPD:ATTR name="Name" type="string">alertType</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">enum</XPD:ATTR>
 <XPD:REF name="Owner">JvGdDamCBkGkbHQpeUl18gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
